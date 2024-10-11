@@ -109,3 +109,5 @@ run-time интеграция является лучшим выбором, та
 
 
 # Микросервисы (Задание 2)
+
+https://drive.google.com/file/d/1trt8BMs4nqzx16OWdTBgeNcykMHN7UMn/view?usp=sharing
